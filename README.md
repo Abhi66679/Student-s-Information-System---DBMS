@@ -60,3 +60,5 @@ The project contains the following tables:
 This project was created as part of a DBMS academic mini project to demonstrate practical implementation of relational database concepts using MySQL.
 
 
+
+
