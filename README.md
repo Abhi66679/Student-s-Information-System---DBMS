@@ -58,3 +58,7 @@ The project contains the following tables:
 
 ## Project Purpose
 This project was created as part of a DBMS academic mini project to demonstrate practical implementation of relational database concepts using MySQL.
+
+## ER - Diagram
+<img width="1536" height="1024" alt="WhatsApp Image 2026-04-19 at 12 04 08 PM" src="https://github.com/user-attachments/assets/f5eedffa-083b-4481-8ed3-36b3b629b51e" />
+
